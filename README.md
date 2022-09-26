@@ -1,2 +1,2 @@
 # rsschool-cv
-CV (1st coding task for RS School)
+https://vagabond3000.github.io/rsschool-cv/cv
