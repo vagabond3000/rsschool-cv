@@ -5,6 +5,7 @@ Female, 19 years, born on 4 May 2003
 ##Contacts and location
 +375 (44) 7985001
 bag_dasha@list.ru — preferred means of communication
+Darya Bahinskaya (@vagabond3000) - discord nickname for RS School
 Reside in: Minsk
 Citizenship: Belarus, work permit at: Belarus. Ready to relocate, ready for rare business trips
 
@@ -23,7 +24,12 @@ I am considering options related not only to Frontend and Backend development, b
 
 ##Code examples
 ```
+let sum = (a, b) => {
+  let result = a + b;
+  return result;
+};
 
+alert( sum(10, 30) ); 
 ```
 
 ##Work experience —11 months
